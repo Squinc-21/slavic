@@ -1,0 +1,6 @@
+Pillow
+numpy
+matplotlib
+tqdm
+fontTools
+prettytable
